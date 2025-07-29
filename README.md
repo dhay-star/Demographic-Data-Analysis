@@ -32,5 +32,24 @@ adult.csv - The dataset used for analysis (make sure this file is in the same di
 
 test_module.py - Contains automated tests that verify the correctness of the analysis function.
 
-README.md - This file.
+README.md - This file
+
+
+
+## How to Run the Project
+Make sure you have Python installed.
+# Install required packages (if needed):
+pip install pandas
+
+# Run the main file:
+python main.py
+
+# To run unit tests:
+python test_module.py
+
+## Notes
+Results are rounded to the nearest tenth, as required.
+You can test the output in main.py before running the tests.
+The dataset must be named adult.csv and placed in the same folder.
+
 
