@@ -1,12 +1,12 @@
 
-Demographic Data Analysis
+## Demographic Data Analysis
 Project Overview
 This project analyzes demographic data from the "adult.csv" dataset using Python and the Pandas library.
 The main goal is to extract meaningful statistics about different groups of people based on their race, education, work hours, income, and more.
 
 The core functionality is implemented in the function calculate_demographic_data() inside the demographic_data_analyzer.py file.
 
-Features / What This Project Does
+## Features / What This Project Does
 Counts the number of individuals in each race category.
 
 Calculates the average age of men.
@@ -25,7 +25,7 @@ Identifies the country with the highest percentage of people earning more than $
 
 Finds the most common occupation for high earners in India.
 
-Files in the Project
+## Files in the Project
 demographic_data_analyzer.py - Contains the main function that performs the data analysis.
 
 adult.csv - The dataset used for analysis (make sure this file is in the same directory).
